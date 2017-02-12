@@ -1,0 +1,13 @@
+archey-git r146.b74e40b-1
+dropbox-experimental 18.3.29-1
+google-chrome 55.0.2883.87-1
+js17 17.0.0-4
+kodi-addon-pvr-iptvsimple-git r103.cc85463-1
+kodi-eventclients-pre-release 17.0b7-1
+kodi-platform-git r38.15edaf7-1
+libplatform-legacy 1.0.10-2
+pycharm-community 2016.3.2-1
+thunar-shares-plugin 0.2.0.git-2
+virtualbox-ext-oracle 5.1.10-1
+visual-studio-code-oss 1.8.0-1
+vmware-systemd-services 0.2-1
